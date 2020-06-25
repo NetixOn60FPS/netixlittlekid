@@ -1,0 +1,34 @@
+{
+  "name": "netix",
+  "version": "1.0.0",
+  "description": "Made by",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "netix",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^11.6.4",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "moment": "^2.26.0",
+    "ms": "^2.1.2",
+    "opusscript": "0.0.7",
+    "start": "nodemon",
+    "yt-search": "^1.1.2",
+    "ytdl-core": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+  {
+  "name": "netixlittlekid",
+  "description": "My own bot kiddos",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.14.1"
+  }
+}
